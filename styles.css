@@ -1,9 +1,9 @@
 body {
-    background-image: url("background.png");
-    background-size: 100%;
-    min-height: 100vh;
-    display: flex;
-    flex-direction: column;
+  background-image: url("background.png");
+  background-size: 100%;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
 }
 
 .content {
@@ -15,7 +15,7 @@ body {
   height: 15%;
   background-color: #333;
   position: relative;
-  color:whitesmoke;
+  color: whitesmoke;
   text-align: center;
   font-size: 15vh;
   top: 0%;
@@ -27,7 +27,7 @@ body {
   height: 10%;
   background-color: #333;
   position: relative;
-  color:whitesmoke;
+  color: whitesmoke;
   text-align: center;
   font-size: 5vh;
   top: 15%;
@@ -131,5 +131,18 @@ a:visited {
 }
 
 .graphContainer {
+  text-align: center;
+}
+
+.rq {
+  color: whitesmoke;
+  background-color: #333;
+  border-radius: 25px;
+  padding: 2%;
+  top: 30%;
+  left: 12.5%;
+  width: 70%;
+  position: relative;
+  margin-bottom: 5%;
   text-align: center;
 }
