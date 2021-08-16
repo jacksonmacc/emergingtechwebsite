@@ -1,0 +1,131 @@
+body {
+    background-image: url("background.png");
+    background-size: 100%;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.content {
+  flex: 1 0 auto;
+}
+
+.title {
+  width: 100%;
+  height: 15%;
+  background-color: #333;
+  position: relative;
+  color:whitesmoke;
+  text-align: center;
+  font-size: 15vh;
+  top: 0%;
+  left: 0%;
+}
+
+.menu {
+  width: 100%;
+  height: 10%;
+  background-color: #333;
+  position: relative;
+  color:whitesmoke;
+  text-align: center;
+  font-size: 5vh;
+  top: 15%;
+  left: 0%;
+  margin-bottom: 5%;
+}
+
+ul {
+  position: sticky;
+  list-style-type: none;
+  width: 100%;
+  justify-content: center;
+  display: flex;
+  margin: auto;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+  text-align: center;
+}
+
+li {
+  float: left;
+  text-align: center;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 7% 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: rgb(37, 37, 37);
+}
+
+.about {
+  color: whitesmoke;
+  background-color: #333;
+  border-radius: 25px;
+  padding: 5%;
+  top: 30%;
+  left: 10%;
+  width: 70%;
+  position: relative;
+  margin-bottom: 5%;
+}
+
+.info {
+  color: whitesmoke;
+  background-color: #333;
+  border-radius: 25px;
+  padding: 5%;
+  left: 10%;
+  width: 70%;
+  position: relative;
+  margin-bottom: 5%;
+}
+a.one:link {
+  color: whitesmoke;
+  text-decoration: none;
+}
+a.one:visited {
+  color: whitesmoke;
+  text-decoration: none;
+}
+
+.error {
+  color: whitesmoke;
+  background-color: #333;
+  border-radius: 25px;
+  padding: 5%;
+  top: 30%;
+  left: 10%;
+  width: 70%;
+  position: relative;
+  margin-bottom: 5%;
+  text-align: center;
+}
+
+.footer {
+  margin-top: auto;
+  background-color: rgb(59, 59, 59);
+  color: whitesmoke;
+  bottom: 0;
+  position: fixed;
+  width: 100%;
+  left: 0;
+  padding: 10px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+a:link {
+  color: whitesmoke;
+}
+
+a:visited {
+  color: whitesmoke;
+}

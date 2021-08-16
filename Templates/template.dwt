@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="styles.css">
+  <!-- TemplateBeginEditable name="doctitle" -->
+    <title>Home</title>
+    <!-- TemplateEndEditable -->
+  <!-- TemplateBeginEditable name="head" -->
+  <!-- TemplateEndEditable -->
+  </head>
+  <body>
+    <div class="content">
+      <div class="title">
+        Title
+      </div>
+      <div class="menu">
+        <ul>
+          <li><a href="file:///C|/wamp64/www/outcome2/dogecoin">Dogecoin</a></li>
+          <li><a href="file:///C|/wamp64/www/outcome2/3d">3D Printing</a></li>
+          <li><a href="file:///C|/wamp64/www/outcome2/dictation">Dictation</a></li>
+        </ul>
+        
+      </div>
+      <div class="about">
+        <h1>About Us</h1>
+        <!-- TemplateBeginEditable name="about" -->
+        <p> text text text <br>
+          text text text <br>
+          text text text <br>
+          text text text <br>
+          text text text <br>
+        </p>
+        <!-- TemplateEndEditable --></div>
+      <!-- TemplateBeginEditable name="content" --> <a class="one" href="https://www.google.com/"> </a><!-- #BeginLibraryItem "/Library/content_box.lbi" --><a class="one" href="https://www.google.com/">
+      <div class="info">
+        <h1>Dogecoin</h1>
+        <p> info info info info info info <br>
+          info info info info info info <br>
+          info info info info info info <br>
+          info info info info info info <br>
+          info info info info info info <br>
+          info info info info info info <br>
+          info info info info info info <br>
+          info info info info info info <br>
+        </p>
+      </div>
+      </a><!-- #EndLibraryItem --><a class="one" href="https://www.google.com/"> </a> <a class="one" href="file:///C|/wamp64/www/outcome2/3d">
+      <div class="info">
+        <h1>3D Printing</h1>
+        <p> info info info info info info <br>
+          info info info info info info <br>
+          info info info info info info <br>
+          info info info info info info <br>
+          info info info info info info <br>
+          info info info info info info <br>
+          info info info info info info <br>
+          info info info info info info <br>
+        </p>
+      </div>
+      </a> <a class="one" href="https://www.google.com/">
+      <div class="info">
+        <h1>Dictation</h1>
+        <p> info info info info info info <br>
+          info info info info info info <br>
+          info info info info info info <br>
+          info info info info info info <br>
+          info info info info info info <br>
+          info info info info info info <br>
+          info info info info info info <br>
+          info info info info info info <br>
+        </p>
+      </div>
+      </a><!-- TemplateEndEditable --></div>
+    <footer class="footer">
+      <a href="https://www.google.com/">Privacy Policy</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      Last Edited: <!-- #BeginDate format:Ja1 -->21/08/12<!-- #EndDate -->
+    </footer>
+  </body>
+</html>
