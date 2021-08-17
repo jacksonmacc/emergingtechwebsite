@@ -132,6 +132,12 @@ a:visited {
 
 .graphContainer {
   text-align: center;
+  vertical-align: middle;
+}
+
+.imageContainer {
+  vertical-align: middle;
+  width: 100%;
 }
 
 .rq {
