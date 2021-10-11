@@ -87,6 +87,16 @@ li a:hover {
   position: relative;
   margin-bottom: 5%;
 }
+.info_3D {
+  color: whitesmoke;
+  background-color: #333;
+  border-radius: 25px;
+  padding: 5%;
+  left: 5%;
+  width: 80%;
+  position: relative;
+  margin-bottom: 5%;
+}
 a.one:link {
   color: whitesmoke;
   text-decoration: none;
