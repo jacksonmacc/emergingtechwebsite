@@ -29,7 +29,7 @@ body {
   position: relative;
   color: whitesmoke;
   text-align: center;
-  font-size: 7vh;
+  font-size: 6vh;
   top: 15%;
   left: 0%;
   margin-bottom: 5%;
@@ -40,17 +40,19 @@ ul {
   list-style-type: none;
   padding: 0;
   background-color: #333;
+  margin: 3vh;
 }
 
 li {
   display: inline-block;
   padding: 10px;
+  margin: 0px;
 }
 
 li a {
   color: white;
   text-align: center;
-  padding: 7% 16px;
+  padding: 7% 8px;
   text-decoration: none;
 }
 
