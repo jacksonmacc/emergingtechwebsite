@@ -4,6 +4,7 @@ body {
   min-height: 100vh;
   display: flex;
   flex-direction: column;
+  min-width: 17rem;
 }
 
 .content {
@@ -17,7 +18,7 @@ body {
   position: relative;
   color: whitesmoke;
   text-align: center;
-  font-size: 13vh;
+  font-size: 10vw;
   top: 0%;
   left: 0%;
 }
@@ -29,37 +30,31 @@ body {
   position: relative;
   color: whitesmoke;
   text-align: center;
-  font-size: 5vh;
+  font-size: 4vw;
   top: 15%;
   left: 0%;
   margin-bottom: 5%;
+  display: table;
 }
 
 ul {
-  position: sticky;
   list-style-type: none;
-  width: 100%;
-  justify-content: center;
-  display: flex;
-  margin: auto;
+  margin: 0;
   padding: 0;
   overflow: hidden;
   background-color: #333;
-  text-align: center;
-  align-items: center;
 }
 
 li {
-  float: left;
-  text-align: center;
-  height: 9vh;
+  display: inline-block;
+  padding: 10px;
+  margin: 0px;
 }
 
 li a {
-  display: block;
   color: white;
   text-align: center;
-  padding: 7% 16px;
+  padding: 7% 8px;
   text-decoration: none;
 }
 
